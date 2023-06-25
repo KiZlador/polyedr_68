@@ -3,7 +3,7 @@ from functools import reduce
 from operator import add
 from common.r3 import R3
 from common.tk_drawer import TkDrawer
-from numpy import sqrt
+from math import sqrt
 from shadow.polyedr import Polyedr,Facet,Edge
 
 class Square:
